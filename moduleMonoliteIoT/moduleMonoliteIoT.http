@@ -1,0 +1,6 @@
+@moduleMonoliteIoT_HostAddress = http://localhost:5181
+
+GET {{moduleMonoliteIoT_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
